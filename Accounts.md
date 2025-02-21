@@ -31,16 +31,13 @@ Accounting is the process of recording, classifying, summarizing, and interpreti
 ### 🔹 Concept of Accounting Equation  
 The basic accounting equation represents the relationship between assets, liabilities, and owner’s equity:  
 
-\[
-\text{Assets} = \text{Liabilities} + \text{Owner’s Equity}
-\]
+## Assets = Liabilities + Owner's Equity
 
 ### 🔹 Numerical Example  
 If a business starts with ₹50,000 from the owner and takes a loan of ₹20,000, the equation is:  
 
-\[
-\text{Assets} (₹70,000) = \text{Liabilities} (₹20,000) + \text{Owner’s Equity} (₹50,000)
-\]  
+## Assets (₹70,000) = Liabilities (₹20,000) + Owner’s Equity (₹50,000)
+
 
 ---
 
