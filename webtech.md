@@ -25,6 +25,29 @@ An HTML boilerplate is a basic template for an HTML document. It includes the es
 HTML Table
 Tables in HTML are used to display data in rows and columns.
 
-html
-Copy
-Edit
+```html
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <th>Age</th>
+    </tr>
+    <tr>
+        <td>Alice</td>
+        <td>25</td>
+    </tr>
+    <tr>
+        <td>Bob</td>
+        <td>30</td>
+    </tr>
+</table>
+
+```
+
+Table Elements:
+<table>: Defines a table.
+<tr>: Defines a row.
+<th>: Defines a header cell.
+<td>: Defines a data cell.
+HTML Image (<img> tag)
+The <img> tag is used to embed images in a webpage.
+
