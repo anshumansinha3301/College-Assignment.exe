@@ -217,4 +217,27 @@ Frameworks provide pre-written CSS and JS to streamline development.
 1. **Simple Frameworks** – Basic styles with minimal features  
 2. **Responsive Frameworks** – Mobile-friendly frameworks with grid systems  
 
+A **Definition List** in HTML is created using the `<dl>` (definition list) element, with `<dt>` (definition term) and `<dd>` (definition description).  
+
+### Example:  
+
+```html
+<dl>
+    <dt>HTML</dt>
+    <dd>HyperText Markup Language - used to structure web pages.</dd>
+
+    <dt>CSS</dt>
+    <dd>Cascading Style Sheets - used for styling web pages.</dd>
+
+    <dt>JavaScript</dt>
+    <dd>A programming language for web development.</dd>
+</dl>
+```
+
+### Explanation:
+- **`<dl>`**: Wraps the definition list.  
+- **`<dt>`**: Defines the term (e.g., "HTML").  
+- **`<dd>`**: Provides the definition/description of the term.  
+
+
 ---
