@@ -1,5 +1,3 @@
-Sure! Here's your content formatted in Markdown:  
-
 ```md
 # Introduction to HTML5.0  
 
