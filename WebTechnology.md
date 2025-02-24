@@ -217,6 +217,8 @@ Frameworks provide pre-written CSS and JS to streamline development.
 1. **Simple Frameworks** – Basic styles with minimal features  
 2. **Responsive Frameworks** – Mobile-friendly frameworks with grid systems  
 
+
+## Definition List
 A **Definition List** in HTML is created using the `<dl>` (definition list) element, with `<dt>` (definition term) and `<dd>` (definition description).  
 
 ### Example:  
