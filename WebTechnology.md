@@ -220,4 +220,3 @@ Frameworks provide pre-written CSS and JS to streamline development.
 2. **Responsive Frameworks** – Mobile-friendly frameworks with grid systems  
 
 ---
-```
