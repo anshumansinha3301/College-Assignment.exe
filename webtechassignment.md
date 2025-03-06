@@ -1,5 +1,3 @@
-Here are the answers in Markdown format:
-
 ```md
 # 11. XML Document for an E-commerce Product Catalog with XSLT Stylesheet
 
