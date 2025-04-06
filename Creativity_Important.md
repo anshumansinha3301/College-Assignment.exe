@@ -145,3 +145,5 @@ Effective problem-solving enhances decision-making and productivity. Common tech
 6. **Decision Matrix** – Evaluating options based on criteria like cost, time, and effectiveness.  
 
 ---
+
+
