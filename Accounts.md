@@ -3,7 +3,7 @@
 ## 📌 1. Understanding Accounting  
 ### 🔹 Nature & Meaning of Accounting  
 Accounting is the process of recording, classifying, summarizing, and interpreting financial transactions to provide useful information for decision-making.  
-
+           
 ### 🔹 Functions of Accounting  
 - **Recording Transactions** – Maintaining systematic records of financial transactions.  
 - **Classifying** – Grouping similar transactions under relevant categories.  
